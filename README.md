@@ -19,7 +19,7 @@
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/google_appengine/google_appengine-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
   <br>
 </p>  
 
