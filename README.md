@@ -1,5 +1,5 @@
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/draj48)
+
 - [![GitHub followers](https://img.shields.io/github/followers/draj48.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/subhodip420?tab=followers)
 
 <p>
