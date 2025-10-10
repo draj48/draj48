@@ -9,7 +9,7 @@
 </p>
 <p align ="right">
   <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <br />
@@ -25,3 +25,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=draj48" alt="draj48" /></p>
+
+
+
