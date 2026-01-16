@@ -1,12 +1,11 @@
-# GITHUB STATUS.
+``` # GITHUB STATUS.
+```
 
-
-<p align ="right">
+<p>
   
 ![](https://github-readme-stats.vercel.app/api?username=draj48&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=draj48&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=draj48&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-
 
 
 </p>  
@@ -17,7 +16,7 @@
 
 
 
-<p align ="right">
+<p align ="left">
 
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
