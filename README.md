@@ -1,12 +1,17 @@
 # GITHUB STATUS.
 
-- [![GitHub followers](https://img.shields.io/github/followers/draj48.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/subhodip420?tab=followers)
+![](https://github-readme-stats.vercel.app/api?username=draj48&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=draj48&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=draj48&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  <a href="https://github.comdraj48/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=draj48" />
-  </a>
-</p>
+
+
+
+
+
+
+
+
 <p align ="right">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
