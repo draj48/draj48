@@ -1,22 +1,17 @@
-``` # GITHUB STATUS.
-```
-
-<p>
-  
-![](https://github-readme-stats.vercel.app/api?username=draj48&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=draj48&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=draj48&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 
-</p>  
+
+<p align="center">
+  <a href="https://readme-stats-murex-six.vercel.app/" target="_blank">
+    <img width="600" style="max-width:100%;" src="https://readme-stats-murex-six.vercel.app/api/card?user=draj48&v=1" />
+  </a>
+</p>
 
 
 
 
 
-
-
-<p align ="left">
+<p align ="center">
 
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
